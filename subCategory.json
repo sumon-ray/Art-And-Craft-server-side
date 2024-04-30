@@ -1,0 +1,39 @@
+[
+    {
+      "id": "1",
+      "image": "subcategory1_image_url",
+      "subcategory_name": "Paintings",
+      "other_info": "Paintings are artworks created by applying paint to a surface, typically canvas."
+    },
+    {
+      "id": "2",
+      "image": "subcategory2_image_url",
+      "subcategory_name": "Pottery",
+      "other_info": "Pottery is the process and the products of forming vessels and other objects with clay and other ceramic materials, which are fired at high temperatures to give them a hard, durable form."
+    },
+    {
+      "id": "3",
+      "image": "subcategory3_image_url",
+      "subcategory_name": "Woodworking",
+      "other_info": "Woodworking is the skill or activity of making items from wood, and includes wood carving, joinery, and carpentry."
+    },
+    {
+      "id": "4",
+      "image": "subcategory4_image_url",
+      "subcategory_name": "Sculpture",
+      "other_info": "Sculpture is the branch of the visual arts that operates in three dimensions. It involves carving, modeling, or assembling materials to create a three-dimensional form."
+    },
+    {
+      "id": "5",
+      "image": "subcategory5_image_url",
+      "subcategory_name": "Jewelry Making",
+      "other_info": "Jewelry making is the art or process of creating wearable accessories, such as necklaces, bracelets, and earrings, using various materials such as metals, gemstones, and beads."
+    },
+    {
+      "id": "6",
+      "image": "subcategory6_image_url",
+      "subcategory_name": "Textile Arts",
+      "other_info": "Textile arts include any art form that uses fibers, yarns, or fabrics as the medium, such as weaving, knitting, embroidery, and quilting."
+    }
+  ]
+  

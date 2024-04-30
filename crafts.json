@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "item_name": "Wooden Jewelry Box",
+        "subcategory_name": "Landscape Painting",
+        "short_description": "Handcrafted wooden jewelry box with intricate designs.",
+        "price": 25.99,
+        "rating": 4.5,
+        "processing_time": "3-5 business days",
+        "photo": "https://plus.unsplash.com/premium_photo-1713720663937-8115a2e98a22?dpr=1&w=306&auto=format&fit=crop&q=60&crop=entropy&cs=tinysrgb&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTh8fGFydCUyMGNyYWZ0fGVufDB8MHx8fDE3MTQyMDcxOTJ8MQ&ixlib=rb-4.0.3"
+    },
+    {
+        "id": 2,
+        "item_name": "Hand-painted Ceramic Mug",
+        "subcategory_name": "Portrait Drawing",
+        "short_description": "Colorful ceramic mug hand-painted with floral patterns.",
+        "price": 15.49,
+        "rating": 4.8,
+        "processing_time": "2-3 business days",
+        "photo": "https://plus.unsplash.com/premium_photo-1713720664312-5a8a79bf85cc?dpr=1&w=306&auto=format&fit=crop&q=60&crop=entropy&cs=tinysrgb&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MjB8fGFydCUyMGNyYWZ0fGVufDB8MHx8fDE3MTQyMDcxOTJ8MQ&ixlib=rb-4.0.3"
+    },
+    {
+        "id": 3,
+        "item_name": "Embroidered Wall Hanging",
+        "subcategory_name": "Watercolour Painting",
+        "short_description": "Intricately embroidered wall hanging with geometric patterns.",
+        "price": 35.99,
+        "rating": 4.6,
+        "processing_time": "4-6 business days",
+        "photo": "https://plus.unsplash.com/premium_photo-1713720664187-18180f87f5f8?dpr=1&w=306&auto=format&fit=crop&q=60&crop=entropy&cs=tinysrgb&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MjF8fGFydCUyMGNyYWZ0fGVufDB8MHx8fDE3MTQyMDcxOTJ8MQ&ixlib=rb-4.0.3"
+    },
+    {
+        "id": 4,
+        "item_name": "Handmade Leather Journal",
+        "subcategory_name": "Oil Paintingt",
+        "short_description": "Genuine leather journal with hand-stitched binding.",
+        "price": 19.99,
+        "rating": 4.7,
+        "processing_time": "3-4 business days",
+        "photo": "https://images.unsplash.com/photo-1493106641515-6b5631de4bb9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGFydCUyMGNyYWZ0fGVufDB8fDB8fHww"
+    },
+    {
+        "id": 5,
+        "item_name": "Beaded Bracelet Set",
+        "subcategory_name": "Charcoal Sketching",
+        "short_description": "Set of three beaded bracelets with adjustable clasps.",
+        "price": 12.99,
+        "rating": 4.4,
+        "processing_time": "2-3 business days",
+        "photo": "https://plus.unsplash.com/premium_photo-1661380954234-13d98a83577c?dpr=1&w=306&auto=format&fit=crop&q=60&crop=entropy&cs=tinysrgb&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTd8fGFydCUyMGNyYWZ0fGVufDB8MHx8fDE3MTQyMDcxOTJ8MQ&ixlib=rb-4.0.3"
+    },
+    {
+        "id": 6,
+        "item_name": "Watercolor Painting Set",
+        "subcategory_name": "Cartoon Drawing",
+        "short_description": "Set of professional-grade watercolor paints with brushes.",
+        "price": 29.99,
+        "rating": 4.9,
+        "processing_time": "1-2 business days",
+        "photo": "https://images.unsplash.com/photo-1452860606245-08befc0ff44b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGFydCUyMGNyYWZ0fGVufDB8fDB8fHww"
+    }
+]
