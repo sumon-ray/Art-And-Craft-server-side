@@ -154,9 +154,6 @@ app.listen(port, () => {
 
 // 🎨 Live Site: CraftStore
 
-// ********Features *****
-
-
 
 
 
